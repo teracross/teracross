@@ -14,7 +14,7 @@
 - Automated data extraction and transformation to support consistent, well-formatted output for end users.
 
 ## Property Tax Tool
-[https://github.com/teracross/devoshelper](https://github.com/teracross/devoshelper)
+[https://github.com/teracross/PropertyTaxAI](https://github.com/teracross/PropertyTaxAI)
 (In Progress) 
 
 ## Kubernetes (Coming Soon)
